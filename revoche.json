@@ -1,5 +1,7 @@
 {
-  "date": "2026-11-14T15:36:03",
-  "revocate": [],
-  "sig": "33Gj6HAxKQZvDWwMmciTZMOUB1b5K1h8OMMKxng5-6WG2UgxiFan3yq2t-hylr5QA-AmiOg0sSy5NEZgDCxKNQ"
+  "date": "2026-11-14T15:37:28",
+  "revocate": [
+    "OK-93GZ-7HCN"
+  ],
+  "sig": "ZdEPyx2ChMXRW7FR9sFrZFoPYu8LNkFFhuk10EewJOD0ajrRDzCwZroxC3tM0__EwMKme9SvcSHk-Xolrj6WsA"
 }
