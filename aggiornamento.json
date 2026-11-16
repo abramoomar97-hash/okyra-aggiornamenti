@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/abramoomar97-hash/okyra-aggiornamenti/releases/download/v1.0.1/Okyra.dmg",
-  "sha256": "bc7f9c4b052ae646af133524b443247c28cc5499b277bc131b7987e6b15ba7c3",
-  "size": 182359920,
-  "notes": "Nuova barra dei menu\nSistemata la rimozione della scheda::Se togli la scheda prima che i fogli siano pronti, la stampa aspetta e riparte quando la reinserisci\nStampe salvate accanto alle foto::Dal Mac nella sottocartella Stampe, dalla scheda in una cartella sulla Scrivania\nAvviso per i caratteri non validi\nTasto destro più preciso\nLicenze più affidabili",
-  "date": "2026-11-14",
-  "sig": "33WkeMiD683i95u1jiwynBTWB4xPwOXkY3HBePdpK-xLsgOF2T1v_f0QSHJ4y4OCROLhmUG_B4IsjVFAAwoqzg"
+  "version": "1.0.2",
+  "url": "https://github.com/abramoomar97-hash/okyra-aggiornamenti/releases/download/v1.0.2/Okyra.dmg",
+  "sha256": "b9987201c99e70ee506f7cd0e3a5e3ce739c198d484779dd54dcf76145b0514d",
+  "size": 182637320,
+  "notes": "Sistemato il nome della rete Wi-Fi::Okyra chiede il permesso Posizione per leggere la rete della Selphy",
+  "date": "2026-11-16",
+  "sig": "qpiMlLEs8K22i8rckJsDSf6dFiRrlszgD1pexBxJe4ILx0PaqYkwbRbd2LMlVytw6Sx_roG2S4zNlOSdw_q0VQ"
 }
