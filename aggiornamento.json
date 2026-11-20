@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/abramoomar97-hash/okyra-aggiornamenti/releases/download/v1.0.3/Okyra.dmg",
-  "sha256": "4cc4299e09cb43b4911c2463edd23cc6540beda8fd33878ab61c732d57c28ba9",
-  "size": 182641203,
-  "notes": "Fix vari",
-  "date": "2026-11-16",
-  "sig": "6xQLp0h1VhYHbBgFdNboBQVmHVmTtmY5NYCetAjLTeUY7_ja0XYZEU7ueZNnnTuy_T0mzrasrZ0K_fyd-TYqQg"
+  "version": "1.0.4",
+  "url": "https://github.com/abramoomar97-hash/okyra-aggiornamenti/releases/download/v1.0.4/Okyra.dmg",
+  "sha256": "1d67c3fbcae5073aa272a8eb8ee1248037b065109d3e912d574f4a99be3863e9",
+  "size": 154058752,
+  "notes": "ID del Mac copiabile::clic sull'ID per copiarlo negli appunti",
+  "date": "2026-11-20",
+  "sig": "Fc_Nh5SKBm97TWu0W0Q6JTbsPtv6iBexibdkCMZPUdjW_AL75LFGJobbBD7i4dUnB0idAcEIvEH70KkMv48I5g"
 }
